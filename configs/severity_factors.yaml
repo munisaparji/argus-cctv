@@ -1,0 +1,15 @@
+factors:
+  weapon_present: {weight: 18, definition: "Detected weapon referenced by a verified presence claim", scale: 1}
+  people_involved: {weight: 8, definition: "Maximum supported simultaneous people count divided by ten", scale: 10}
+  physical_contact: {weight: 12, definition: "Contact with independently supported event evidence", scale: 1}
+  crowd_density: {weight: 5, definition: "Supported count divided by twenty; count proxy, not physical density", scale: 20}
+  incident_duration: {weight: 8, definition: "Duration of verified observations divided by sixty seconds", scale: 60}
+  time_of_day: {weight: 3, definition: "Documented night context; unavailable from claims by default", scale: 1}
+  property_damage: {weight: 12, definition: "Damage with independent event evidence", scale: 1}
+  vulnerable_person: {weight: 5, definition: "Explicit non-biometric contextual evidence; never infer age or disability", scale: 1}
+  role_asymmetry: {weight: 8, definition: "Independently annotated role asymmetry; unavailable automatically", scale: 1}
+  escalation: {weight: 7, definition: "Independently annotated increase in event intensity", scale: 1}
+  restricted_area: {weight: 5, definition: "Configured access-zone context; unavailable by default", scale: 1}
+  vehicle_involvement: {weight: 5, definition: "Vehicle in supported observations", scale: 1}
+  detection_confidence: {weight: 4, definition: "Mean supporting detection confidence; reliability proxy", scale: 1}
+

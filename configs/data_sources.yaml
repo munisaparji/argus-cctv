@@ -1,0 +1,31 @@
+ucf_crime:
+  role: WHEN
+  project_url: https://www.crcv.ucf.edu/projects/real-world/
+  features_url: https://github.com/yujiangpu20/PEL4VAD
+  download_url: null
+  expected_sha256: null
+  filename: ucf_features.zip
+  instructions: Obtain the UCF-Crime research data using the official project page. Follow PEL4VAD's I3D feature links. Put approved files in data/raw/ucf_crime and create index.csv using docs/DATA_FORMATS.md. Set a trusted SHA256 and direct download URL here if available.
+uca:
+  role: WHAT TO SAY
+  project_url: https://github.com/Xuange923/Surveillance-Video-Understanding
+  download_url: null
+  expected_sha256: null
+  filename: uca_annotations.zip
+  instructions: Download UCA annotations from the official repository links after checking terms. Put files in data/raw/uca and prepare index.csv. Video rights remain with the original source dataset.
+xdviolence:
+  role: GENERALISE
+  project_url: https://roc-ng.github.io/XD-Violence/
+  features_url: https://github.com/yujiangpu20/PEL4VAD
+  download_url: null
+  expected_sha256: null
+  filename: xd_features.zip
+  instructions: Follow official XD-Violence feature links and terms. Put approved files in data/raw/xdviolence and index.csv beside them. Assign every evaluation clip to test; never train on XD-Violence.
+sirb:
+  role: HOW SERIOUS AND DO WHAT
+  project_url: null
+  download_url: null
+  expected_sha256: null
+  filename: sirb_v1.jsonl
+  instructions: This benchmark must be authored by independent annotators. Use the annotation studio, sample_sirb.py and export_sirb.py. There is no existing public SIRB download or DOI for this project.
+

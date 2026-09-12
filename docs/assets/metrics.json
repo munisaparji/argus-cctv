@@ -1,0 +1,62 @@
+{
+  "scope": "SYNTHETIC SAMPLE ONLY",
+  "sample": {
+    "incidents": 8,
+    "claims": 15,
+    "rejected_claims": 2,
+    "claim_rejection_rate": 0.13333333333333333,
+    "mean_per_video_rejection_rate": 0.0625,
+    "constraint_violations": 0,
+    "adversarial_injected": 4,
+    "adversarial_stripped": 4,
+    "valid_actions_retained": 2,
+    "rejection_reasons": {
+      "no_supporting_detection": 2
+    },
+    "mean_pipeline_ms": 143.33125,
+    "latency_ms": {
+      "M1": 12.1945,
+      "M2": 5.045624999999999,
+      "M3": 102.429875,
+      "M4": 12.206375,
+      "M5": 0.27175,
+      "M6": 7.460875,
+      "M7": 3.513875
+    },
+    "raw_system_unsupported_claims": 2,
+    "verified_display_unsupported_claims": 0
+  },
+  "research": {
+    "ucf_frame_auc": {
+      "status": "PENDING",
+      "reason": "Required research data or independent ratings are not present",
+      "command": "python scripts/eval/detector.py --index data/index/ucf_crime.parquet --checkpoint artifacts/checkpoints/detector.pt"
+    },
+    "uca_temporal_iou": {
+      "status": "PENDING",
+      "reason": "Required research data or independent ratings are not present",
+      "command": "python scripts/eval/localisation.py --input artifacts/localisation_pairs.json"
+    },
+    "severity_agreement": {
+      "status": "PENDING",
+      "reason": "Required research data or independent ratings are not present",
+      "command": "python scripts/eval/severity.py --input artifacts/severity_pairs.json"
+    },
+    "sirb_interannotator": {
+      "status": "PENDING",
+      "reason": "Required research data or independent ratings are not present",
+      "command": "python scripts/eval/interannotator.py --input data/sirb/paired_ratings.json"
+    },
+    "xd_average_precision": {
+      "status": "PENDING",
+      "reason": "Required research data or independent ratings are not present",
+      "command": "python scripts/eval/crossdataset.py --index data/index/xdviolence.parquet --checkpoint artifacts/checkpoints/detector.pt"
+    },
+    "vlm_ablations": {
+      "status": "PENDING",
+      "reason": "Required research data or independent ratings are not present",
+      "command": "python scripts/eval/ablations.py --input artifacts/ablation_records.json"
+    }
+  },
+  "caveat": "Rejection rate measures consistency with fallible detector evidence; it is not independently adjudicated language hallucination accuracy. Severity is uncalibrated until human fitting and held-out evaluation."
+}

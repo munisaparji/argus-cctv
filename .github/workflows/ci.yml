@@ -1,0 +1,20 @@
+name: ARGUS checks
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - uses: actions/setup-node@v4
+        with: {node-version: '22', cache: npm, cache-dependency-path: apps/console/package-lock.json}
+      - run: pip install -e '.[dev]'
+      - run: python -m argus.cli demo
+      - run: pytest -q
+      - run: ruff check src scripts tests
+      - run: mypy src/argus/schema src/argus/modules --follow-imports=silent
+      - run: python -m argus.cli schema
+      - run: npm ci && npm run types && npm run build
+        working-directory: apps/console
+

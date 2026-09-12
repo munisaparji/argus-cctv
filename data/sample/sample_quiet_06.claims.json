@@ -1,0 +1,16 @@
+{
+  "claims": [
+    {
+      "claim_id": "c1",
+      "text": "The scene does not provide enough evidence to describe an event.",
+      "type": "UNCERTAINTY",
+      "entities": [],
+      "time_span_s": [
+        0,
+        6
+      ],
+      "self_confidence": 0.3,
+      "predicate": "unknown"
+    }
+  ]
+}

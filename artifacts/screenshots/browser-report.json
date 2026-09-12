@@ -1,0 +1,33 @@
+{
+  "errors": [],
+  "findings": [
+    {
+      "screen": "triage",
+      "violations": []
+    },
+    {
+      "screen": "detail",
+      "violations": []
+    },
+    {
+      "screen": "Pipeline",
+      "violations": []
+    },
+    {
+      "screen": "Benchmarks",
+      "violations": []
+    },
+    {
+      "screen": "Annotation",
+      "violations": []
+    },
+    {
+      "screen": "Audit trail",
+      "violations": []
+    },
+    {
+      "screen": "Method & ethics",
+      "violations": []
+    }
+  ]
+}

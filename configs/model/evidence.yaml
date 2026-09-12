@@ -1,0 +1,7 @@
+model_id: facebook/detr-resnet-50
+threshold: 0.65
+sample_fps: 2
+tracker: greedy_iou
+iou_threshold: 0.25
+max_age_s: 2
+

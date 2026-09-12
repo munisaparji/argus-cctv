@@ -1,0 +1,353 @@
+{
+  "objects": [
+    {
+      "detection_id": "d0",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 16,
+      "time_s": 0.64,
+      "bbox": [
+        92.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d1",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 21,
+      "time_s": 0.84,
+      "bbox": [
+        94.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d2",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 26,
+      "time_s": 1.04,
+      "bbox": [
+        98.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d3",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 31,
+      "time_s": 1.24,
+      "bbox": [
+        101.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d4",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 36,
+      "time_s": 1.44,
+      "bbox": [
+        105.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d5",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 41,
+      "time_s": 1.64,
+      "bbox": [
+        108.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d6",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 46,
+      "time_s": 1.84,
+      "bbox": [
+        112.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d7",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 51,
+      "time_s": 2.04,
+      "bbox": [
+        115.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d8",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 56,
+      "time_s": 2.24,
+      "bbox": [
+        119.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d9",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 61,
+      "time_s": 2.44,
+      "bbox": [
+        122.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d10",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 66,
+      "time_s": 2.64,
+      "bbox": [
+        126.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d11",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 71,
+      "time_s": 2.84,
+      "bbox": [
+        130.0,
+        154.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d12",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 76,
+      "time_s": 3.04,
+      "bbox": [
+        133.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d13",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 81,
+      "time_s": 3.24,
+      "bbox": [
+        136.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d14",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 86,
+      "time_s": 3.44,
+      "bbox": [
+        140.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d15",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 91,
+      "time_s": 3.64,
+      "bbox": [
+        142.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": 1,
+      "cls": "person",
+      "frames": [
+        16,
+        21,
+        26,
+        31,
+        36,
+        41,
+        46,
+        51,
+        56,
+        61,
+        66,
+        71,
+        76,
+        81,
+        86,
+        91
+      ],
+      "trajectory": [
+        [
+          107.5,
+          203.0
+        ],
+        [
+          110.0,
+          203.0
+        ],
+        [
+          114.0,
+          203.0
+        ],
+        [
+          116.5,
+          203.0
+        ],
+        [
+          120.5,
+          203.0
+        ],
+        [
+          124.0,
+          203.0
+        ],
+        [
+          128.0,
+          203.0
+        ],
+        [
+          130.5,
+          203.0
+        ],
+        [
+          134.5,
+          203.0
+        ],
+        [
+          138.0,
+          203.0
+        ],
+        [
+          142.0,
+          203.0
+        ],
+        [
+          145.0,
+          203.0
+        ],
+        [
+          148.5,
+          203.0
+        ],
+        [
+          152.0,
+          203.0
+        ],
+        [
+          156.0,
+          203.0
+        ],
+        [
+          158.0,
+          203.0
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "person": 1
+  },
+  "keyframes": [
+    {
+      "frame": 26,
+      "time_s": 1.04,
+      "path": "data/cache/evidence/sample_corridor_02_da557ddd/frame_26.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 41,
+      "time_s": 1.64,
+      "path": "data/cache/evidence/sample_corridor_02_da557ddd/frame_41.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 56,
+      "time_s": 2.24,
+      "path": "data/cache/evidence/sample_corridor_02_da557ddd/frame_56.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 76,
+      "time_s": 3.04,
+      "path": "data/cache/evidence/sample_corridor_02_da557ddd/frame_76.jpg",
+      "reason": "detection_density_and_motion"
+    }
+  ],
+  "extractor": "synthetic-colour-segmentation-v1",
+  "limitations": [
+    "Tracks are clip-local geometric associations, not identities.",
+    "Missing detection is missing support, not proof of absence.",
+    "No independent contact, damage, intent or role detector is enabled."
+  ]
+}

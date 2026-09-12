@@ -1,0 +1,1205 @@
+{
+  "objects": [
+    {
+      "detection_id": "d0",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 0,
+      "time_s": 0.0,
+      "bbox": [
+        370.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d1",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 0,
+      "time_s": 0.0,
+      "bbox": [
+        225.0,
+        178.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d2",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 0,
+      "time_s": 0.0,
+      "bbox": [
+        80.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d3",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 5,
+      "time_s": 0.2,
+      "bbox": [
+        374.0,
+        204.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d4",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 5,
+      "time_s": 0.2,
+      "bbox": [
+        228.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d5",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 5,
+      "time_s": 0.2,
+      "bbox": [
+        83.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d6",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 10,
+      "time_s": 0.4,
+      "bbox": [
+        378.0,
+        204.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d7",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 10,
+      "time_s": 0.4,
+      "bbox": [
+        232.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d8",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 10,
+      "time_s": 0.4,
+      "bbox": [
+        87.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d9",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 15,
+      "time_s": 0.6,
+      "bbox": [
+        380.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d10",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 15,
+      "time_s": 0.6,
+      "bbox": [
+        235.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d11",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 15,
+      "time_s": 0.6,
+      "bbox": [
+        90.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d12",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 20,
+      "time_s": 0.8,
+      "bbox": [
+        384.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d13",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 20,
+      "time_s": 0.8,
+      "bbox": [
+        239.0,
+        178.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d14",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 20,
+      "time_s": 0.8,
+      "bbox": [
+        94.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d15",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 25,
+      "time_s": 1.0,
+      "bbox": [
+        388.0,
+        204.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d16",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 25,
+      "time_s": 1.0,
+      "bbox": [
+        242.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d17",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 25,
+      "time_s": 1.0,
+      "bbox": [
+        97.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d18",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 30,
+      "time_s": 1.2,
+      "bbox": [
+        391.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d19",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 30,
+      "time_s": 1.2,
+      "bbox": [
+        246.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d20",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 30,
+      "time_s": 1.2,
+      "bbox": [
+        101.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d21",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 35,
+      "time_s": 1.4,
+      "bbox": [
+        394.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d22",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 35,
+      "time_s": 1.4,
+      "bbox": [
+        249.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d23",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 35,
+      "time_s": 1.4,
+      "bbox": [
+        104.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d24",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 40,
+      "time_s": 1.6,
+      "bbox": [
+        398.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d25",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 40,
+      "time_s": 1.6,
+      "bbox": [
+        253.0,
+        178.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d26",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 40,
+      "time_s": 1.6,
+      "bbox": [
+        108.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d27",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 45,
+      "time_s": 1.8,
+      "bbox": [
+        402.0,
+        204.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d28",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 45,
+      "time_s": 1.8,
+      "bbox": [
+        256.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d29",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 45,
+      "time_s": 1.8,
+      "bbox": [
+        112.0,
+        154.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d30",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 50,
+      "time_s": 2.0,
+      "bbox": [
+        406.0,
+        204.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d31",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 50,
+      "time_s": 2.0,
+      "bbox": [
+        260.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d32",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 50,
+      "time_s": 2.0,
+      "bbox": [
+        115.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d33",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 55,
+      "time_s": 2.2,
+      "bbox": [
+        408.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d34",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 55,
+      "time_s": 2.2,
+      "bbox": [
+        264.0,
+        178.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d35",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 55,
+      "time_s": 2.2,
+      "bbox": [
+        118.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d36",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 60,
+      "time_s": 2.4,
+      "bbox": [
+        412.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d37",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 60,
+      "time_s": 2.4,
+      "bbox": [
+        267.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d38",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 60,
+      "time_s": 2.4,
+      "bbox": [
+        122.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d39",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 65,
+      "time_s": 2.6,
+      "bbox": [
+        416.0,
+        204.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d40",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 65,
+      "time_s": 2.6,
+      "bbox": [
+        270.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d41",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 65,
+      "time_s": 2.6,
+      "bbox": [
+        126.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d42",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 70,
+      "time_s": 2.8,
+      "bbox": [
+        420.0,
+        204.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d43",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 70,
+      "time_s": 2.8,
+      "bbox": [
+        274.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d44",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 70,
+      "time_s": 2.8,
+      "bbox": [
+        130.0,
+        154.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d45",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 75,
+      "time_s": 3.0,
+      "bbox": [
+        422.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d46",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 75,
+      "time_s": 3.0,
+      "bbox": [
+        277.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d47",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 75,
+      "time_s": 3.0,
+      "bbox": [
+        132.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d48",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 80,
+      "time_s": 3.2,
+      "bbox": [
+        426.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d49",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 80,
+      "time_s": 3.2,
+      "bbox": [
+        281.0,
+        178.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d50",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 80,
+      "time_s": 3.2,
+      "bbox": [
+        136.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d51",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 85,
+      "time_s": 3.4,
+      "bbox": [
+        430.0,
+        204.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d52",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 85,
+      "time_s": 3.4,
+      "bbox": [
+        284.0,
+        178.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d53",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 85,
+      "time_s": 3.4,
+      "bbox": [
+        140.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d54",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 90,
+      "time_s": 3.6,
+      "bbox": [
+        432.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d55",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 90,
+      "time_s": 3.6,
+      "bbox": [
+        287.0,
+        178.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d56",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 90,
+      "time_s": 3.6,
+      "bbox": [
+        142.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    },
+    {
+      "detection_id": "d57",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 95,
+      "time_s": 3.8,
+      "bbox": [
+        432.0,
+        204.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d58",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 95,
+      "time_s": 3.8,
+      "bbox": [
+        287.0,
+        178.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d59",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 95,
+      "time_s": 3.8,
+      "bbox": [
+        142.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 3
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": 1,
+      "cls": "person",
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        55,
+        60,
+        65,
+        70,
+        75,
+        80,
+        85,
+        90,
+        95
+      ],
+      "trajectory": [
+        [
+          386.0,
+          253.0
+        ],
+        [
+          389.0,
+          253.0
+        ],
+        [
+          393.0,
+          253.0
+        ],
+        [
+          396.0,
+          253.0
+        ],
+        [
+          400.0,
+          253.0
+        ],
+        [
+          403.0,
+          253.0
+        ],
+        [
+          407.0,
+          253.0
+        ],
+        [
+          410.0,
+          253.0
+        ],
+        [
+          414.0,
+          253.0
+        ],
+        [
+          417.0,
+          253.0
+        ],
+        [
+          421.0,
+          253.0
+        ],
+        [
+          424.0,
+          253.0
+        ],
+        [
+          428.0,
+          253.0
+        ],
+        [
+          431.0,
+          253.0
+        ],
+        [
+          435.0,
+          253.0
+        ],
+        [
+          438.0,
+          253.0
+        ],
+        [
+          442.0,
+          253.0
+        ],
+        [
+          445.0,
+          253.0
+        ],
+        [
+          448.0,
+          253.0
+        ],
+        [
+          448.0,
+          253.0
+        ]
+      ]
+    },
+    {
+      "track_id": 2,
+      "cls": "person",
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        55,
+        60,
+        65,
+        70,
+        75,
+        80,
+        85,
+        90,
+        95
+      ],
+      "trajectory": [
+        [
+          240.5,
+          227.0
+        ],
+        [
+          244.0,
+          227.0
+        ],
+        [
+          248.0,
+          227.0
+        ],
+        [
+          251.0,
+          227.0
+        ],
+        [
+          254.5,
+          227.0
+        ],
+        [
+          258.0,
+          227.0
+        ],
+        [
+          262.0,
+          227.0
+        ],
+        [
+          265.0,
+          227.0
+        ],
+        [
+          268.5,
+          227.0
+        ],
+        [
+          272.0,
+          227.0
+        ],
+        [
+          276.0,
+          227.0
+        ],
+        [
+          279.5,
+          227.0
+        ],
+        [
+          283.0,
+          227.0
+        ],
+        [
+          286.0,
+          227.0
+        ],
+        [
+          290.0,
+          227.0
+        ],
+        [
+          293.0,
+          227.0
+        ],
+        [
+          296.5,
+          227.0
+        ],
+        [
+          300.0,
+          227.0
+        ],
+        [
+          302.5,
+          227.0
+        ],
+        [
+          302.5,
+          227.0
+        ]
+      ]
+    },
+    {
+      "track_id": 3,
+      "cls": "person",
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        55,
+        60,
+        65,
+        70,
+        75,
+        80,
+        85,
+        90,
+        95
+      ],
+      "trajectory": [
+        [
+          96.0,
+          203.0
+        ],
+        [
+          98.5,
+          203.0
+        ],
+        [
+          103.0,
+          203.0
+        ],
+        [
+          106.0,
+          203.0
+        ],
+        [
+          110.0,
+          203.0
+        ],
+        [
+          112.5,
+          203.0
+        ],
+        [
+          116.5,
+          203.0
+        ],
+        [
+          120.0,
+          203.0
+        ],
+        [
+          124.0,
+          203.0
+        ],
+        [
+          127.0,
+          203.0
+        ],
+        [
+          130.5,
+          203.0
+        ],
+        [
+          134.0,
+          203.0
+        ],
+        [
+          138.0,
+          203.0
+        ],
+        [
+          141.5,
+          203.0
+        ],
+        [
+          145.0,
+          203.0
+        ],
+        [
+          148.0,
+          203.0
+        ],
+        [
+          152.0,
+          203.0
+        ],
+        [
+          155.5,
+          203.0
+        ],
+        [
+          158.0,
+          203.0
+        ],
+        [
+          158.0,
+          203.0
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "person": 3
+  },
+  "keyframes": [
+    {
+      "frame": 10,
+      "time_s": 0.4,
+      "path": "data/cache/evidence/sample_group_05_df12fab2/frame_10.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 30,
+      "time_s": 1.2,
+      "path": "data/cache/evidence/sample_group_05_df12fab2/frame_30.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 50,
+      "time_s": 2.0,
+      "path": "data/cache/evidence/sample_group_05_df12fab2/frame_50.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 80,
+      "time_s": 3.2,
+      "path": "data/cache/evidence/sample_group_05_df12fab2/frame_80.jpg",
+      "reason": "detection_density_and_motion"
+    }
+  ],
+  "extractor": "synthetic-colour-segmentation-v1",
+  "limitations": [
+    "Tracks are clip-local geometric associations, not identities.",
+    "Missing detection is missing support, not proof of absence.",
+    "No independent contact, damage, intent or role detector is enabled."
+  ]
+}

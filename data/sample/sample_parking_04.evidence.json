@@ -1,0 +1,818 @@
+{
+  "objects": [
+    {
+      "detection_id": "d0",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 0,
+      "time_s": 0.0,
+      "bbox": [
+        80.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d1",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 0,
+      "time_s": 0.0,
+      "bbox": [
+        340.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d2",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 5,
+      "time_s": 0.2,
+      "bbox": [
+        83.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d3",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 5,
+      "time_s": 0.2,
+      "bbox": [
+        337.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d4",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 10,
+      "time_s": 0.4,
+      "bbox": [
+        87.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d5",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 10,
+      "time_s": 0.4,
+      "bbox": [
+        334.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d6",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 15,
+      "time_s": 0.6,
+      "bbox": [
+        90.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d7",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 15,
+      "time_s": 0.6,
+      "bbox": [
+        331.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d8",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 20,
+      "time_s": 0.8,
+      "bbox": [
+        94.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d9",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 20,
+      "time_s": 0.8,
+      "bbox": [
+        328.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d10",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 25,
+      "time_s": 1.0,
+      "bbox": [
+        97.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d11",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 25,
+      "time_s": 1.0,
+      "bbox": [
+        325.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d12",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 30,
+      "time_s": 1.2,
+      "bbox": [
+        101.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d13",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 30,
+      "time_s": 1.2,
+      "bbox": [
+        322.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d14",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 35,
+      "time_s": 1.4,
+      "bbox": [
+        104.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d15",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 35,
+      "time_s": 1.4,
+      "bbox": [
+        319.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d16",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 40,
+      "time_s": 1.6,
+      "bbox": [
+        108.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d17",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 40,
+      "time_s": 1.6,
+      "bbox": [
+        316.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d18",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 45,
+      "time_s": 1.8,
+      "bbox": [
+        112.0,
+        154.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d19",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 45,
+      "time_s": 1.8,
+      "bbox": [
+        313.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d20",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 50,
+      "time_s": 2.0,
+      "bbox": [
+        115.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d21",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 50,
+      "time_s": 2.0,
+      "bbox": [
+        310.0,
+        264.0,
+        91.0,
+        40.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d22",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 55,
+      "time_s": 2.2,
+      "bbox": [
+        118.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d23",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 55,
+      "time_s": 2.2,
+      "bbox": [
+        307.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d24",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 60,
+      "time_s": 2.4,
+      "bbox": [
+        122.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d25",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 60,
+      "time_s": 2.4,
+      "bbox": [
+        304.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d26",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 65,
+      "time_s": 2.6,
+      "bbox": [
+        126.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d27",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 65,
+      "time_s": 2.6,
+      "bbox": [
+        301.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d28",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 70,
+      "time_s": 2.8,
+      "bbox": [
+        130.0,
+        154.0,
+        30.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d29",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 70,
+      "time_s": 2.8,
+      "bbox": [
+        298.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d30",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 75,
+      "time_s": 3.0,
+      "bbox": [
+        132.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d31",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 75,
+      "time_s": 3.0,
+      "bbox": [
+        295.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d32",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 80,
+      "time_s": 3.2,
+      "bbox": [
+        136.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d33",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 80,
+      "time_s": 3.2,
+      "bbox": [
+        292.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d34",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 85,
+      "time_s": 3.4,
+      "bbox": [
+        140.0,
+        154.0,
+        31.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d35",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 85,
+      "time_s": 3.4,
+      "bbox": [
+        289.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d36",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 90,
+      "time_s": 3.6,
+      "bbox": [
+        142.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d37",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 90,
+      "time_s": 3.6,
+      "bbox": [
+        286.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    },
+    {
+      "detection_id": "d38",
+      "cls": "person",
+      "conf": 1.0,
+      "frame": 95,
+      "time_s": 3.8,
+      "bbox": [
+        142.0,
+        154.0,
+        32.0,
+        98.0
+      ],
+      "track_id": 1
+    },
+    {
+      "detection_id": "d39",
+      "cls": "car",
+      "conf": 1.0,
+      "frame": 95,
+      "time_s": 3.8,
+      "bbox": [
+        283.0,
+        265.0,
+        91.0,
+        38.0
+      ],
+      "track_id": 2
+    }
+  ],
+  "tracks": [
+    {
+      "track_id": 1,
+      "cls": "person",
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        55,
+        60,
+        65,
+        70,
+        75,
+        80,
+        85,
+        90,
+        95
+      ],
+      "trajectory": [
+        [
+          96.0,
+          203.0
+        ],
+        [
+          98.5,
+          203.0
+        ],
+        [
+          103.0,
+          203.0
+        ],
+        [
+          106.0,
+          203.0
+        ],
+        [
+          110.0,
+          203.0
+        ],
+        [
+          112.5,
+          203.0
+        ],
+        [
+          116.5,
+          203.0
+        ],
+        [
+          120.0,
+          203.0
+        ],
+        [
+          124.0,
+          203.0
+        ],
+        [
+          127.0,
+          203.0
+        ],
+        [
+          130.5,
+          203.0
+        ],
+        [
+          134.0,
+          203.0
+        ],
+        [
+          138.0,
+          203.0
+        ],
+        [
+          141.5,
+          203.0
+        ],
+        [
+          145.0,
+          203.0
+        ],
+        [
+          148.0,
+          203.0
+        ],
+        [
+          152.0,
+          203.0
+        ],
+        [
+          155.5,
+          203.0
+        ],
+        [
+          158.0,
+          203.0
+        ],
+        [
+          158.0,
+          203.0
+        ]
+      ]
+    },
+    {
+      "track_id": 2,
+      "cls": "car",
+      "frames": [
+        0,
+        5,
+        10,
+        15,
+        20,
+        25,
+        30,
+        35,
+        40,
+        45,
+        50,
+        55,
+        60,
+        65,
+        70,
+        75,
+        80,
+        85,
+        90,
+        95
+      ],
+      "trajectory": [
+        [
+          385.5,
+          284.0
+        ],
+        [
+          382.5,
+          284.0
+        ],
+        [
+          379.5,
+          284.0
+        ],
+        [
+          376.5,
+          284.0
+        ],
+        [
+          373.5,
+          284.0
+        ],
+        [
+          370.5,
+          284.0
+        ],
+        [
+          367.5,
+          284.0
+        ],
+        [
+          364.5,
+          284.0
+        ],
+        [
+          361.5,
+          284.0
+        ],
+        [
+          358.5,
+          284.0
+        ],
+        [
+          355.5,
+          284.0
+        ],
+        [
+          352.5,
+          284.0
+        ],
+        [
+          349.5,
+          284.0
+        ],
+        [
+          346.5,
+          284.0
+        ],
+        [
+          343.5,
+          284.0
+        ],
+        [
+          340.5,
+          284.0
+        ],
+        [
+          337.5,
+          284.0
+        ],
+        [
+          334.5,
+          284.0
+        ],
+        [
+          331.5,
+          284.0
+        ],
+        [
+          328.5,
+          284.0
+        ]
+      ]
+    }
+  ],
+  "counts": {
+    "person": 1,
+    "car": 1
+  },
+  "keyframes": [
+    {
+      "frame": 15,
+      "time_s": 0.6,
+      "path": "data/cache/evidence/sample_parking_04_ee19a9c0/frame_15.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 30,
+      "time_s": 1.2,
+      "path": "data/cache/evidence/sample_parking_04_ee19a9c0/frame_30.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 50,
+      "time_s": 2.0,
+      "path": "data/cache/evidence/sample_parking_04_ee19a9c0/frame_50.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 80,
+      "time_s": 3.2,
+      "path": "data/cache/evidence/sample_parking_04_ee19a9c0/frame_80.jpg",
+      "reason": "detection_density_and_motion"
+    }
+  ],
+  "extractor": "synthetic-colour-segmentation-v1",
+  "limitations": [
+    "Tracks are clip-local geometric associations, not identities.",
+    "Missing detection is missing support, not proof of absence.",
+    "No independent contact, damage, intent or role detector is enabled."
+  ]
+}

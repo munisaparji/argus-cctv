@@ -1,0 +1,17 @@
+site_name: ARGUS Project Guide
+theme:
+  name: material
+nav:
+  - Overview: index.md
+  - Architecture: ARCHITECTURE.md
+  - Setup: SETUP.md
+  - API: API_REFERENCE.md
+  - Data formats: DATA_FORMATS.md
+  - Research workflows: RESEARCH_WORKFLOWS.md
+  - Annotation protocol: SIRB_ANNOTATION_PROTOCOL.md
+  - Results: RESULTS.md
+  - Ethics: ETHICS.md
+  - Licences: LICENCES.md
+  - Completion status: COMPLETION_STATUS.md
+  - Test report: TEST_REPORT.md
+  - Release notes: RELEASE_NOTES.md

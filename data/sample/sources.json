@@ -1,0 +1,74 @@
+[
+  {
+    "dataset": "Synthetic sample",
+    "clip_id": "sample_counter_01",
+    "video_path": "data/sample/sample_counter_01.mp4",
+    "fps": 25.0,
+    "duration_s": 6.0,
+    "sample": true,
+    "split": "demo"
+  },
+  {
+    "dataset": "Synthetic sample",
+    "clip_id": "sample_corridor_02",
+    "video_path": "data/sample/sample_corridor_02.mp4",
+    "fps": 25.0,
+    "duration_s": 6.0,
+    "sample": true,
+    "split": "demo"
+  },
+  {
+    "dataset": "Synthetic sample",
+    "clip_id": "sample_bag_03",
+    "video_path": "data/sample/sample_bag_03.mp4",
+    "fps": 25.0,
+    "duration_s": 6.0,
+    "sample": true,
+    "split": "demo"
+  },
+  {
+    "dataset": "Synthetic sample",
+    "clip_id": "sample_parking_04",
+    "video_path": "data/sample/sample_parking_04.mp4",
+    "fps": 25.0,
+    "duration_s": 6.0,
+    "sample": true,
+    "split": "demo"
+  },
+  {
+    "dataset": "Synthetic sample",
+    "clip_id": "sample_group_05",
+    "video_path": "data/sample/sample_group_05.mp4",
+    "fps": 25.0,
+    "duration_s": 6.0,
+    "sample": true,
+    "split": "demo"
+  },
+  {
+    "dataset": "Synthetic sample",
+    "clip_id": "sample_quiet_06",
+    "video_path": "data/sample/sample_quiet_06.mp4",
+    "fps": 25.0,
+    "duration_s": 6.0,
+    "sample": true,
+    "split": "demo"
+  },
+  {
+    "dataset": "Synthetic sample",
+    "clip_id": "sample_entry_07",
+    "video_path": "data/sample/sample_entry_07.mp4",
+    "fps": 25.0,
+    "duration_s": 6.0,
+    "sample": true,
+    "split": "demo"
+  },
+  {
+    "dataset": "Synthetic sample",
+    "clip_id": "sample_vehicle_08",
+    "video_path": "data/sample/sample_vehicle_08.mp4",
+    "fps": 25.0,
+    "duration_s": 6.0,
+    "sample": true,
+    "split": "demo"
+  }
+]

@@ -1,0 +1,14 @@
+.venv
+.git
+.codex
+.agents
+**/node_modules
+**/__pycache__
+artifacts/qa
+artifacts/.matplotlib
+deliverables
+data/argus.sqlite*
+data/cache
+data/features
+data/sirb
+docs/reference

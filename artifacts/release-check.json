@@ -1,0 +1,14 @@
+{
+  "status": "PASS",
+  "archive_integrity": "PASS",
+  "file_count": 252,
+  "relocated_demo": "PASS",
+  "relocated_api": {
+    "incidents": 8,
+    "media": "PASS",
+    "api": "PASS",
+    "audit": "PASS",
+    "isolated_source_import": "PASS"
+  },
+  "scope": "Fresh extracted files using dependencies installed on this Windows machine. No claim of an independent OS or fresh dependency installation."
+}

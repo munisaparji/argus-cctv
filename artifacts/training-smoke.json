@@ -1,0 +1,13 @@
+{
+  "scope": "SYNTHETIC SOFTWARE TEST ONLY",
+  "status": "PASS",
+  "training_rows": 4,
+  "validation_rows": 2,
+  "heldout_prediction_rows": 1,
+  "epochs": 1,
+  "checkpoint_reload": "PASS",
+  "finite_predictions": true,
+  "parameters": 4937922,
+  "test_used_for_selection": false,
+  "note": "No UCF or XD benchmark metric was computed or claimed."
+}

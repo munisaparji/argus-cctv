@@ -1,0 +1,37 @@
+{
+  "objects": [],
+  "tracks": [],
+  "counts": {},
+  "keyframes": [
+    {
+      "frame": 25,
+      "time_s": 1.0,
+      "path": "data/cache/evidence/sample_quiet_06_ecbcc6f7/frame_25.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 50,
+      "time_s": 2.0,
+      "path": "data/cache/evidence/sample_quiet_06_ecbcc6f7/frame_50.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 100,
+      "time_s": 4.0,
+      "path": "data/cache/evidence/sample_quiet_06_ecbcc6f7/frame_100.jpg",
+      "reason": "detection_density_and_motion"
+    },
+    {
+      "frame": 125,
+      "time_s": 5.0,
+      "path": "data/cache/evidence/sample_quiet_06_ecbcc6f7/frame_125.jpg",
+      "reason": "detection_density_and_motion"
+    }
+  ],
+  "extractor": "synthetic-colour-segmentation-v1",
+  "limitations": [
+    "Tracks are clip-local geometric associations, not identities.",
+    "Missing detection is missing support, not proof of absence.",
+    "No independent contact, damage, intent or role detector is enabled."
+  ]
+}

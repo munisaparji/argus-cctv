@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "duration_s": 179.76,
+  "fps": 25.0,
+  "frames": 4494,
+  "review_frames": 12,
+  "audio": "none",
+  "captions": "12 explanatory segments",
+  "padding_frames_corrected": 370
+}

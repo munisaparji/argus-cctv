@@ -1,0 +1,256 @@
+[
+  {
+    "title": "Surveillance Video-and-Language Understanding: From Small to Large Multimodal Models",
+    "doi": "10.1109/tcsvt.2024.3462433",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2025,
+    "authors": [
+      "Tongtong Yuan",
+      "Xuange Zhang",
+      "Bo Liu",
+      "Kun Liu",
+      "Jian Jin",
+      "Zhenzhen Jiao"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tcsvt.2024.3462433"
+  },
+  {
+    "title": "Learning Prompt-Enhanced Context Features for Weakly-Supervised Video Anomaly Detection",
+    "doi": "10.1109/tip.2024.3451935",
+    "journal": "IEEE Transactions on Image Processing",
+    "year": 2024,
+    "authors": [
+      "Yujiang Pu",
+      "Xiaoyu Wu",
+      "Lulu Yang",
+      "Shengjin Wang"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tip.2024.3451935"
+  },
+  {
+    "title": "Video Violence Rating: A Large-Scale Public Database and A Multimodal Rating Model",
+    "doi": "10.1109/tmm.2024.3379893",
+    "journal": "IEEE Transactions on Multimedia",
+    "year": 2024,
+    "authors": [
+      "Tao Xiang",
+      "Hongyan Pan",
+      "Zhixiong Nan"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tmm.2024.3379893"
+  },
+  {
+    "title": "StrongSORT: Make DeepSORT Great Again",
+    "doi": "10.1109/tmm.2023.3240881",
+    "journal": "IEEE Transactions on Multimedia",
+    "year": 2023,
+    "authors": [
+      "Yunhao Du",
+      "Zhicheng Zhao",
+      "Yang Song",
+      "Yanyun Zhao",
+      "Fei Su",
+      "Tao Gong",
+      "Hongying Meng"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tmm.2023.3240881"
+  },
+  {
+    "title": "BatchNorm-Based Weakly Supervised Video Anomaly Detection",
+    "doi": "10.1109/tcsvt.2024.3450734",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2024,
+    "authors": [
+      "Yixuan Zhou",
+      "Yi Qu",
+      "Xing Xu",
+      "Fumin Shen",
+      "Jingkuan Song",
+      "Heng Tao Shen"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tcsvt.2024.3450734"
+  },
+  {
+    "title": "Weakly-Supervised Video Anomaly Detection With Snippet Anomalous Attention",
+    "doi": "10.1109/tcsvt.2024.3350084",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2024,
+    "authors": [
+      "Yidan Fan",
+      "Yongxin Yu",
+      "Wenhuan Lu",
+      "Yahong Han"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tcsvt.2024.3350084"
+  },
+  {
+    "title": "Extended Graph Learning for Weakly Supervised Video Anomaly Detection",
+    "doi": "10.1109/tcsvt.2025.3625570",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2026,
+    "authors": [
+      "Jixiang Deng",
+      "Ying Liu",
+      "Chunguang Li"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tcsvt.2025.3625570"
+  },
+  {
+    "title": "Enhancing Weakly-Supervised Video Anomaly Detection With Temporal Constraints",
+    "doi": "10.1109/access.2025.3560767",
+    "journal": "IEEE Access",
+    "year": 2025,
+    "authors": [
+      "Francisco Caetano",
+      "Pedro Carvalho",
+      "Christina Mastralexi",
+      "Jaime S. Cardoso"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/access.2025.3560767"
+  },
+  {
+    "title": "Reconstructive Visual Tuning for Weakly Supervised Video Anomaly Detection",
+    "doi": "10.1109/tifs.2026.3729516",
+    "journal": "IEEE Transactions on Information Forensics and Security",
+    "year": 2026,
+    "authors": [
+      "Shuangqing Zhang",
+      "Wei Xu",
+      "Yuqi Fang",
+      "Fan Lyu",
+      "Leilei Ma",
+      "Gangming Zhao",
+      "Fang Zhao",
+      "Caifeng Shan",
+      "Liang Wang"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tifs.2026.3729516"
+  },
+  {
+    "title": "Delving Into Instance Modeling for Weakly Supervised Video Anomaly Detection",
+    "doi": "10.1109/tcsvt.2025.3546766",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2025,
+    "authors": [
+      "Shengyang Sun",
+      "Jiashen Hua",
+      "Junyi Feng",
+      "Dongxu Wei",
+      "Baisheng Lai",
+      "Xiaojin Gong"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tcsvt.2025.3546766"
+  },
+  {
+    "title": "Learning Confidence-Aware Prototypes for Weakly-Supervised Video Anomaly Detection",
+    "doi": "10.1109/tcsvt.2025.3628630",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2026,
+    "authors": [
+      "Zhao Xie",
+      "Jinkang Luo",
+      "Kewei Wu",
+      "Zhehan Kan",
+      "Dan Guo"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tcsvt.2025.3628630"
+  },
+  {
+    "title": "Enhancing Weakly Supervised Multimodal Video Anomaly Detection Through Text Guidance",
+    "doi": "10.1109/tmm.2026.3668927",
+    "journal": "IEEE Transactions on Multimedia",
+    "year": 2026,
+    "authors": [
+      "Shengyang Sun",
+      "Jiashen Hua",
+      "Junyi Feng",
+      "Xiaojin Gong"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tmm.2026.3668927"
+  },
+  {
+    "title": "Feature Differentiation Reconstruction Network for Weakly-Supervised Video Anomaly Detection",
+    "doi": "10.1109/lsp.2023.3324299",
+    "journal": "IEEE Signal Processing Letters",
+    "year": 2023,
+    "authors": [
+      "Yiling Gong",
+      "Sihui Luo",
+      "Chong Wang",
+      "Yujie Zheng"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/lsp.2023.3324299"
+  },
+  {
+    "title": "Audio-Visual Collaborative Learning for Weakly Supervised Video Anomaly Detection",
+    "doi": "10.1109/tmm.2025.3535377",
+    "journal": "IEEE Transactions on Multimedia",
+    "year": 2025,
+    "authors": [
+      "Jingke Meng",
+      "Huilin Tian",
+      "Ge Lin",
+      "Jian-Fang Hu",
+      "Wei-Shi Zheng"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tmm.2025.3535377"
+  },
+  {
+    "title": "PLOVAD: Prompting Vision-Language Models for Open Vocabulary Video Anomaly Detection",
+    "doi": "10.1109/tcsvt.2025.3528108",
+    "journal": "IEEE Transactions on Circuits and Systems for Video Technology",
+    "year": 2025,
+    "authors": [
+      "Chenting Xu",
+      "Ke Xu",
+      "Xinghao Jiang",
+      "Tanfeng Sun"
+    ],
+    "type": "journal-article",
+    "abstract": "",
+    "verification": "Crossref DOI metadata resolved",
+    "url": "https://doi.org/10.1109/tcsvt.2025.3528108"
+  }
+]

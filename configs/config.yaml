@@ -1,0 +1,7 @@
+seed: 42
+device: auto
+retry_threshold: 0.6
+sample_mode: true
+detector_threshold: 0.5
+max_upload_mb: 100
+

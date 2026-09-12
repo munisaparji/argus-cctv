@@ -1,0 +1,18 @@
+{
+  "claims": [
+    {
+      "claim_id": "c3",
+      "text": "A car is visible.",
+      "type": "OBSERVATION",
+      "entities": [
+        "car"
+      ],
+      "time_span_s": [
+        1.28,
+        2.56
+      ],
+      "self_confidence": 0.9,
+      "predicate": "presence"
+    }
+  ]
+}

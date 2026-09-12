@@ -1,0 +1,16 @@
+default:
+  LOW: [log_only, preserve_clip]
+  MEDIUM: [flag_for_review, preserve_clip, notify_supervisor]
+  HIGH: [alert_guard, preserve_clip, escalate_human]
+  CRITICAL: [alert_guard, preserve_clip, notify_supervisor, escalate_human]
+Robbery:
+  LOW: [flag_for_review, preserve_clip]
+  MEDIUM: [alert_guard, preserve_clip, notify_supervisor]
+  HIGH: [alert_guard, preserve_clip, notify_police]
+  CRITICAL: [alert_guard, preserve_clip, notify_police, escalate_human]
+Fire:
+  LOW: [flag_for_review, preserve_clip]
+  MEDIUM: [alert_guard, preserve_clip, notify_supervisor]
+  HIGH: [call_fire, preserve_clip, escalate_human]
+  CRITICAL: [call_fire, preserve_clip, escalate_human]
+

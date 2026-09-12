@@ -1,0 +1,46 @@
+import fs from 'node:fs/promises';
+import path from 'node:path';
+import {chromium} from '@playwright/test';
+import AxeBuilder from '@axe-core/playwright';
+const out=path.resolve('../../artifacts/screenshots');
+await fs.mkdir(out,{recursive:true});
+const browser=await chromium.launch({channel:'chrome',headless:true});
+const context=await browser.newContext({viewport:{width:1440,height:1000},deviceScaleFactor:2});
+const page=await context.newPage();
+const errors=[];page.on('pageerror',e=>errors.push(e.message));
+const findings=[];
+async function capture(file){await page.evaluate(()=>{document.activeElement?.blur();window.scrollTo(0,0)});await page.screenshot({path:path.join(out,file),fullPage:true});}
+await page.goto('http://127.0.0.1:8000/?demo=1');
+await page.getByRole('heading',{name:'Incident workspace'}).waitFor();
+await capture('01-triage.png');
+findings.push({screen:'triage',violations:(await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa']).analyze()).violations});
+await page.getByRole('button',{name:/Open sample_counter_01/}).click();
+await page.getByRole('heading',{name:'Claim ledger'}).waitFor();
+const rejected=page.locator('.claim.rejected');
+if(await rejected.count()!==1)throw new Error('Expected one rejected knife claim');
+await page.getByLabel('Show what an unverified system would have shown').check();
+await page.getByText('UNVERIFIED GENERATED CLAIMS',{exact:true}).waitFor();
+await page.getByLabel('Show what an unverified system would have shown').uncheck();
+await page.locator('video').evaluate(v=>v.play());
+await page.waitForFunction(()=>document.querySelector('video')?.currentTime>0.2);
+await page.locator('video').evaluate(v=>v.pause());
+await capture('02-detail.png');
+findings.push({screen:'detail',violations:(await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa']).analyze()).violations});
+for(const [label,file] of [['Pipeline','03-pipeline'],['Benchmarks','04-benchmarks'],['Annotation','05-annotation'],['Audit trail','06-audit'],['Method & ethics','07-method']]){
+ await page.getByRole('navigation').getByRole('button',{name:label,exact:true}).click();
+ await capture(file+'.png');
+ findings.push({screen:label,violations:(await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa']).analyze()).violations});
+}
+await page.getByRole('button',{name:'Switch color theme'}).click();
+await capture('08-light.png');
+await page.setViewportSize({width:768,height:1024});
+await capture('09-responsive.png');
+await page.goto('http://127.0.0.1:8000/');
+await page.getByRole('heading',{name:'Incident workspace'}).waitFor();
+await page.getByRole('button',{name:'Run pipeline',exact:true}).click();
+await page.getByRole('button',{name:'Run selected clip'}).click();
+await page.getByRole('status').filter({hasText:'Pipeline complete'}).waitFor({timeout:60000});
+await fs.writeFile(path.join(out,'browser-report.json'),JSON.stringify({errors,findings},null,2));
+console.log(JSON.stringify({errors,screens:findings.map(f=>({screen:f.screen,violations:f.violations.map(v=>({id:v.id,impact:v.impact,nodes:v.nodes.length}))}))},null,2));
+await browser.close();
+if(errors.length||findings.some(f=>f.violations.length))process.exitCode=1;

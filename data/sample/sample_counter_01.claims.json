@@ -1,0 +1,66 @@
+{
+  "claims": [
+    {
+      "claim_id": "c1",
+      "text": "2 people are visible in the scene.",
+      "type": "OBSERVATION",
+      "entities": [
+        "person"
+      ],
+      "time_span_s": [
+        1.28,
+        2.56
+      ],
+      "self_confidence": 0.9,
+      "predicate": "count",
+      "counts": {
+        "person": 2
+      }
+    },
+    {
+      "claim_id": "c2",
+      "text": "A bag is visible beside the people.",
+      "type": "OBSERVATION",
+      "entities": [
+        "bag",
+        "person"
+      ],
+      "time_span_s": [
+        1.28,
+        2.56
+      ],
+      "self_confidence": 0.8,
+      "predicate": "presence"
+    },
+    {
+      "claim_id": "c4",
+      "text": "A person is holding a knife.",
+      "type": "OBSERVATION",
+      "entities": [
+        "person",
+        "knife"
+      ],
+      "time_span_s": [
+        1.28,
+        2.56
+      ],
+      "self_confidence": 0.94,
+      "predicate": "presence"
+    },
+    {
+      "claim_id": "c5",
+      "text": "The person may intend to take the bag.",
+      "type": "OBSERVATION",
+      "entities": [
+        "person",
+        "bag"
+      ],
+      "time_span_s": [
+        1.28,
+        2.56
+      ],
+      "self_confidence": 0.7,
+      "predicate": "intent"
+    }
+  ]
+}

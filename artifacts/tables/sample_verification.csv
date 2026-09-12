@@ -1,0 +1,9 @@
+clip_id,claims,rejected,rejection_rate,total_ms,scope
+sample_counter_01,4,1,0.25,300.886,SYNTHETIC
+sample_corridor_02,1,0,0.0,112.03,SYNTHETIC
+sample_bag_03,4,1,0.25,94.144,SYNTHETIC
+sample_parking_04,2,0,0.0,120.542,SYNTHETIC
+sample_group_05,1,0,0.0,110.883,SYNTHETIC
+sample_quiet_06,1,0,0.0,147.884,SYNTHETIC
+sample_entry_07,1,0,0.0,117.453,SYNTHETIC
+sample_vehicle_08,1,0,0.0,142.828,SYNTHETIC

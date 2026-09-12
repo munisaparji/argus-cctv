@@ -1,0 +1,21 @@
+{
+  "claims": [
+    {
+      "claim_id": "c1",
+      "text": "3 people are visible in the scene.",
+      "type": "OBSERVATION",
+      "entities": [
+        "person"
+      ],
+      "time_span_s": [
+        1.28,
+        2.56
+      ],
+      "self_confidence": 0.9,
+      "predicate": "count",
+      "counts": {
+        "person": 3
+      }
+    }
+  ]
+}
